@@ -18,7 +18,7 @@ elixir(function(mix){
     mix.scripts(
         [
             bowerPath + '/jquery/dist/jquery.min.js',
-            bowerPath + '/jquery-snowfall/dist/snowfall.jquery.min',
+            bowerPath + '/jquery-snowfall/dist/snowfall.jquery.min.js',
             bowerPath + '/bootstrap/dist/js/bootstrap.min.js',
 
             'js/*.js'

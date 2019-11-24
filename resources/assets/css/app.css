@@ -9516,6 +9516,10 @@ a.text-dark:hover, a.text-dark:focus {
   padding-top: 0px;
 }
 
+.bg-purple {
+  background-color: #3a3334 !important;
+}
+
 @media (min-width: 576px) {
   .footer {
     margin-top: 88%;
@@ -9541,5 +9545,5 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .body-snow-background {
-  background: url(../images/snow.jpg) #b1dde0 top center no-repeat;
+  background: url(../images/christmas_tree_art_light_sparks_118808_1280x960.jpg) #000000 top center no-repeat;
 }
