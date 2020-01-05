@@ -4,7 +4,7 @@ About the application technologies and operation:
 
 ### Technologies:
 - Descriptive Language: HTML5
-- Style Description Language: CSS
+- Style Description Language: CSS (Bootstrap 4.3.1)
 - Other uses: 
   - **JQuery-Snowfall** plugin: *This plugin implements the snowfall effect*
   - **.bowerrc** file: *This file contains the path to wich folder to "Copy" or "Install" when downloading dependencies from GIT BASH*
