@@ -1,4 +1,4 @@
-# JQuery - Christmas Snow Application with JQuery-Snowfall Plugin
+# JQuery - Christmas Snow Application with JQuery-Snowfall Plugin [Year of Development: 2019]
 
 About the application technologies and operation:
 
